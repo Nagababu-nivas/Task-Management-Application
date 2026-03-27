@@ -19,8 +19,11 @@ A simple REST API built using Spring Boot to manage tasks. This project demonstr
 * Java
 * Spring Boot
 * Spring Data JPA
+* Postman
 * PostgreSQL
 * Maven
+* GitHub
+* Intellij IDEA
 
 ---
 
